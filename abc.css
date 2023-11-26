@@ -674,7 +674,6 @@ padding-left: 15px;
     display: flex;
     flex-direction:row;
     flex-wrap: wrap;
-    justify-content:center;
     padding: 10px;
     text-align:center;
     list-style: none;   
